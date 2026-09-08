@@ -1,0 +1,3 @@
+Purbanchal Univerity
+ faculty of science
+ Java ProgrammingWrite a program to append two more lines to an existing file college.txt without deleting its previous contents.Write a program to append two more lines to an existing file college.txt without deleting its previous contents.
